@@ -144,7 +144,7 @@ namespace NinjaTrader.NinjaScript.Strategies
 				// See the Help Guide for additional information
 				IsInstantiatedOnEachOptimizationIteration	= false;
 				Trailpercent					= 6.8;
-				Whick					= 3.3;
+				Whick					= 3.6;
 				TrendTrail					= 13.6;
 				Ltrail					= -14;
 				Strail					= 14;
@@ -1192,3 +1192,4 @@ namespace NinjaTrader.NinjaScript.Strategies
 
 	}
 }
+
